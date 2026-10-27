@@ -1,0 +1,2 @@
+# bruixola
+Bruixola app info
